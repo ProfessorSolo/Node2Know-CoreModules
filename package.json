@@ -1,0 +1,21 @@
+{
+  "name": "node2know-coremodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spy-on-me.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorSolo/Node2Know-HelloNode.git"
+  },
+  "keywords": [],
+  "author": "Joshua Solomon",
+  "license": "Node2Know-LEARN-1.0",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ProfessorSolo/Node2Know-HelloNode/issues"
+  },
+  "homepage": "https://github.com/ProfessorSolo/Node2Know-HelloNode#readme"
+}
